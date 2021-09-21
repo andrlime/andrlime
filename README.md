@@ -1,6 +1,5 @@
 <p>👋 Hi, I’m <a href="https://www.andrewli.org">Andrew Li</a></p>
-<p>👀 I’m interested in Biochemistry, Computer Science, and Econometrics. If something doesn't have numbers...I probably won't like it</p>
-<p>🌱 I’m currently learning React.js and Node.js to develop apps for my school</p>
+<p>👀 I’m interested in computer software and hardware, and also the environment.</p>
 
 <details align="center">
    <summary><samp>Skills</samp></summary>
