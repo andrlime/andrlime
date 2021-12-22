@@ -12,7 +12,7 @@
       <img alt="InDesign" src="https://img.shields.io/badge/-InDesign-FF3366?logo=adobe-indesign&logoColor=white"/>
       <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white"/>
     <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=andrewleaf22&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=andrewli06&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img><br>
   </samp>
   </p>
 </details>
