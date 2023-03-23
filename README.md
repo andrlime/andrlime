@@ -8,4 +8,4 @@ _Regarding my skills..._
 
 _Northwestern_
 
-I'm a CS major at Northwestern. Technically, my code for `CS111` and `CS211` are archived on GitHub but those repositories are private because of academic integrity. Don't email me for help. Thanks.
+I'm a CS major at Northwestern. Technically, my code for `CS111` and `CS211` are archived on GitHub but those repositories are private because of academic integrity. Don't email me for help. Thanks. I will give you one of my assignments though: it was the hardest project for `CS211` and the source code is [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
