@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrlime)](https://github.com/anuraghazra/github-readme-stats)
+Hi I write code. If you want to see some things I'm not necessarily proud of but wrote for fun, see `ExperimentalCode`. Most other repositories are production code and in TypeScript React or Express. I will eventually sort things out with using backends that aren't JavaScript based but that will come with time.
