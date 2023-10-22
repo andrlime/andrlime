@@ -2,7 +2,7 @@ Hi, I write code. I'm also a student at Northwestern. Scroll down if you want he
 
 _Regarding my skills..._
 
-- I love and am good at: **TypeScript, Python, C++, Java, React, NextJS, Adobe InDesign**
+- I love and am good at: **C++, Python, TypeScript, Java, React, NextJS, Adobe InDesign**
 - I'm currently learning: **Julia, Rust, Elixir**
 - I'm good at (but don't "love" per se): **Node, Express, Matplotlib Figure Making, Bash Scripting, JavaScript, C**
 - Languages I have been forced to use for a class and do not want to use ever again: **Racket/Scheme, Visual Basic**
