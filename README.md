@@ -6,6 +6,7 @@
 - 🧵 Teaching **C/C++**, systems, assembly, and parallel programming; wrote Python and SQL interpreters in C, debugged memory issues, parallelized code with OpenMP, pthreads.
 - 🛠 Building cloud tools in **Python** and use **Docker**, **Git**, **Kubernetes**
 - 🛰 Developing a Python HAL for controlling RS232-connected legacy hardware, improving scientific equipment usability
+- 🕹️ Engineering Markdown-to-React compiler in **OCaml** for development of text-based games
 - 🧩 Created full-stack tools with **Flask**, **React**, **TypeScript**, and **MongoDB**, deployed in **Docker**
 - 📍 Won a hackathon with a pub-sub WebSocket location-sharing app powered by an **Elixir** backend
 
@@ -18,10 +19,10 @@
 
 ## Skills
 **Languages**  
-C++, Python, C, x86 Assembly, SQL, Golang, Java, TypeScript, JavaScript, ReactJS, NextJS, Lisp, Rust, Elixir
+**C++, Python, OCaml**, C, x86 Assembly, SQL, Golang, Java, TypeScript, JavaScript, ReactJS, NextJS, Lisp, Rust, Elixir
 
 **Tools & Libraries**  
-(Neo)vim, NetworkX, Matplotlib, Pandas, Polars, Numpy, Pytorch, Pytest, Tensorflow, Git, GitHub CI/CD, UNIX, Docker, Kubernetes, MongoDB, GDB, Valgrind
+**Language Models / LLMs, (Neo)vim**, NetworkX, Matplotlib, Pandas, Polars, Numpy, Pytorch, Pytest, Tensorflow, Git, GitHub CI/CD, UNIX, Docker, Kubernetes, MongoDB, GDB, Valgrind
 
 **Infrastructure & DevOps**  
 Cloud: AWS, DigitalOcean, Firebase
