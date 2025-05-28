@@ -3,12 +3,12 @@
 ---
 
 ## ⚡ Highlights
+- 🕹️ Engineering Markdown-to-React compiler in **OCaml** for development of text-based games, and CSV-TypeScript static content-bundler DSL with type checking in **OCaml** for static frontend apps.
 - 🧵 Teaching **C/C++**, systems, assembly, and parallel programming; wrote Python and SQL interpreters in C, debugged memory issues, parallelized code with OpenMP, pthreads.
-- 🛠 Building cloud tools in **Python** and use **Docker**, **Git**, **Kubernetes**
-- 🛰 Developing a Python HAL for controlling RS232-connected legacy hardware, improving scientific equipment usability
-- 🕹️ Engineering Markdown-to-React compiler in **OCaml** for development of text-based games
-- 🧩 Created full-stack tools with **Flask**, **React**, **TypeScript**, and **MongoDB**, deployed in **Docker**
-- 📍 Won a hackathon with a pub-sub WebSocket location-sharing app powered by an **Elixir** backend
+- 🛠 Building cloud tools in **Python** and use **Docker**, **Git**, **Kubernetes**.
+- 🛰 Developing a Python HAL for controlling RS232-connected legacy hardware, improving scientific equipment usability.
+- 🧩 Created full-stack tools with **Flask**, **React**, **TypeScript**, and **MongoDB**, deployed in **Docker**.
+- 📍 Won a hackathon with a pub-sub WebSocket location-sharing app powered by an **Elixir** backend.
 
 ---
 
