@@ -1,33 +1,54 @@
-🎓 I'm a **Computer Science, Chemistry**, and [**Integrated Science Program**](https://isp.northwestern.edu/) undergrad at **Northwestern University**, focused on software systems, scientific computing, and low-level programming.
+I'm an undergraduate at **Northwestern University**, studying **Computer Science** and the **Integrated Science Program**. My work focuses on **low-level systems**, **programming language infrastructure**, and **scientific computing**.
 
 ---
 
-## ⚡ Highlights
-- 🕹️ Engineering Markdown-to-React compiler in **OCaml** for development of text-based games, and CSV-TypeScript static content-bundler DSL with type checking in **OCaml** for static frontend apps.
-- 🧵 Teaching **C/C++**, systems, assembly, and parallel programming; wrote Python and SQL interpreters in C, debugged memory issues, parallelized code with OpenMP, pthreads.
-- 🛠 Building cloud tools in **Python** and use **Docker**, **Git**, **Kubernetes**.
-- 🛰 Developing a Python HAL for controlling RS232-connected legacy hardware, improving scientific equipment usability.
-- 🧩 Created full-stack tools with **Flask**, **React**, **TypeScript**, and **MongoDB**, deployed in **Docker**.
-- 📍 Won a hackathon with a pub-sub WebSocket location-sharing app powered by an **Elixir** backend.
+## ⚙️ Interests
+
+- **Systems Programming** — building efficient, predictable software with careful attention to memory, performance, and concurrency
+- **Programming Languages** — designing tools and DSLs that emphasize type safety, correctness, and expressive abstraction
+- **Scientific Infrastructure** — writing code to drive robust, accurate, and maintainable computation-driven research
+- **Runtime and Compilation Models** — exploring interpreters, emulators, schema compilers, and transformation pipelines
 
 ---
 
-## 📫 Reach Out
+## 🛠️ Featured Projects
+
+### Gameboy Emulator (C++26)
+A full CPU emulator with cycle-accurate memory and I/O modeling. Built using modern C++ features for type-safe dispatch and modular architecture. Focused on architectural fidelity and performance.
+[link](https://github.com/andrlime/spinarak)
+
+### OCaml Static Content DSL
+A statically typed compiler that transforms structured data schemas into TypeScript modules. Leverages algebraic data types and exhaustive pattern matching to eliminate runtime errors and ensure downstream consistency.
+[link](https://github.com/andrlime/conkeldurr)
+
+### Distributed Job Aggregation Pipeline
+Concurrent job processing system using gRPC and message queues to collect and transform live data streams. Implements backpressure, fault tolerance, and durable persistence.
+[link](https://github.com/andrlime/wigglytuff)
+
+---
+
+## 🏆 Highlights
+
+- Teaching Assistant for several systems programming courses — supporting coursework in C, C++, x86 assembly, parallelism (OpenMP, pthreads, MPI)
+- 1st Place @ WildHacks 2023 — real-time pub-sub location sharing app powered by a Elixir WebSocket backend
+
+---
+
+## 🧰 Tools & Technologies
+
+**Languages:**  
+C++, C, OCaml, Go, Python, SQL, Assembly, TypeScript
+
+**Systems & Infra:**  
+gRPC, Docker, RabbitMQ, PostgreSQL, GDB, Valgrind, UNIX, CMake, AWS
+
+**Parallelism:**  
+OpenMP, pthreads, MPI
+
+---
+
+## 🔗 Connect
+
 - GitHub: [@andrlime](https://github.com/andrlime)
-- LinkedIn: [andrewli2048](https://www.linkedin.com/in/andrewli2048)
+- LinkedIn: [andrewli2048](https://linkedin.com/in/andrewli2048)
 - Email: [andrewli@u.northwestern.edu](mailto:andrewli@u.northwestern.edu)
-
-## Skills
-**Languages**  
-**C++, Python, OCaml**, C, x86 Assembly, SQL, Golang, Java, TypeScript, JavaScript, ReactJS, NextJS, Lisp, Rust, Elixir
-
-**Tools & Libraries**  
-**Language Models / LLMs, (Neo)vim**, NetworkX, Matplotlib, Pandas, Polars, Numpy, Pytorch, Pytest, Tensorflow, Git, GitHub CI/CD, UNIX, Docker, Kubernetes, MongoDB, GDB, Valgrind
-
-**Infrastructure & DevOps**  
-Cloud: AWS, DigitalOcean, Firebase
-APIs: REST, RPC  
-Other: Shell Scripting
-
-**Miscellaneous**  
-Adobe Illustrator, InDesign, Photoshop, Lightroom, Mandarin Chinese
