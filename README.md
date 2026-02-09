@@ -16,7 +16,7 @@ match programming_language_you_want_me_to_code_with with
 | _ -> "I don't know that language"
 ```
 You might have the valid counterargument that it's not the size of the boat; it's the motion of the ocean. Programming language probably doesn't matter as much as the type of work being done. If that's the case
-```
+```ocaml
 match project with
 | LowLevelInfrastructure -> Fun
 | DistributedSystems -> Fun
